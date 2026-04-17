@@ -1,0 +1,15 @@
+model:
+  particle_radius: 0.025
+  coordinate_mapping: 'ball_to_cube_volume_preserving'
+  kernel_size: [4, 4, 4]
+  radius_scale: 1.5
+  interpolation: 'linear'
+  use_window: true
+  timestep: 0.02
+
+
+dataset_dir: ""  
+
+
+evaluation:
+  scale: 1.0
