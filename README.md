@@ -1,0 +1,2 @@
+# RotaFluid
+Physics-InspiredGatedAttentionwithLocal-GlobalModelingforRotatingFluid Simulation
